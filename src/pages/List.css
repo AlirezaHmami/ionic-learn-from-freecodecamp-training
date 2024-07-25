@@ -1,0 +1,6 @@
+.alert-button.ion-focusable.alert-button-role-cancel{
+  color: var(--ion-color-dark);
+}
+.alert-button.ion-focusable.alert-button-role-confirm{
+  color: var(--ion-color-danger);
+}

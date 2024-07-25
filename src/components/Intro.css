@@ -1,0 +1,23 @@
+.swiper{
+  height: 100vh;
+  width: 100vw;
+}
+.swiper-slide{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.swiper-slide ion-button.next,
+.swiper-slide ion-button.finishBtn{
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+}
+
+.swiper-slide ion-button.prev{
+  position: absolute;
+  left: 5px;
+  bottom: 5px;
+}
